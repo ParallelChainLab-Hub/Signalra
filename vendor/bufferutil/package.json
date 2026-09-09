@@ -1,0 +1,6 @@
+{
+  "name": "bufferutil",
+  "version": "4.1.0",
+  "description": "JavaScript stand-in. The native addon fails to build on Node 24.",
+  "main": "index.js"
+}
