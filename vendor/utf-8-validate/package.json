@@ -1,0 +1,6 @@
+{
+  "name": "utf-8-validate",
+  "version": "5.0.10",
+  "description": "JavaScript stand-in. The native addon fails to build on Node 24.",
+  "main": "index.js"
+}
